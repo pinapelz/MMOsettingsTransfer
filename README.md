@@ -7,5 +7,4 @@ A Java Program That Transfers MMORPG Game settings between computers using macro
 3. If you are using FFXIV then please go through the saving and downloading process once manually on each machine you plan to transfer to and from. This is to set the path of 
 the OneDrive/Google Drive you are using.
 
-
-
+### Only FFXIV is Supported At The Moment
